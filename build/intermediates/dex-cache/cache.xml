@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-7fd15b9766ef04b4b9ed93bc4935972d4814a656.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-1bb54841b09652cc4d659fd99bc1094d9ef5eeec.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-8ceac71989ec0433c10462c7e878e42c41543e5d.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/libs/cling-support-2.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9380e480a12936960a31169da30eaf7ae8818cf">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/cling-support-2.0-SNAPSHOT-760b8e261fb03c43f6228aab11f6f75766097fd6.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-9c5d33b4cf0fa24864a259a81af3e08097abd42b.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-7956ca618163ae4552bf955b50474e45f7a56ab6.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-e81357c24e28535910e20fdfe9fc7bc2759d7740.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/libs/seamless-http-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e4f6f4d83c579108c6fbfc7033e14437e3c2b995">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/seamless-http-1.0-SNAPSHOT-1e21f038b994b05c1721e7df0ee102e344cdbbdc.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-a84b5d53a4bfed3080a5a398d2b1e74031aa74c9.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ac6a4a11a3d5b4fa82737e02a546dc3fa75f754f.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/libs/seamless-util-1.0-20111017.170503-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2fb35c67b15bbc9ad3c75ee811f5625234f03d66">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/seamless-util-1.0-20111017.170503-1-97d2143c61a3a5d61adac2778bf25d72d5476e99.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-a0de630ad07b7cd47deb518ceebdd4f30757405b.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-9ceb18036af4541321b9c37780cac443d8d5bed9.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-e611b466ffa0c79b711e91027cdf961c6b0a90b2.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-4b8845038436ec6728391b91c4c4bcddd9311fda.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-08efbf827c62a81e8954163a7ebfd3d5f97d1d65.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-66980c93ff52bd97ddb4df5cb34c6ceb81e143f8.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-bf5fda52cc69492246a946ece42a8d074f18d17d.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-fe04c21de0da702714e095907b7030fa97280a68.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/libs/seamless-xml-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="141df5855c1d79572bf68920bf5c081d6957b9a7">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/seamless-xml-1.0-SNAPSHOT-ae48e0e43dd7b6950f3284c7f98662ed5c8941b6.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-ee4abc35efcf1c854c56f43898c7e08157115618.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-51cebde1d761435ea9ee606f71bd7ce62cb32bd8.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-053225a098a421aae4736db867ed4a740ab9d7a0.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-4e5126227b91eb5997257288eb56792b1879279c.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-44bce0faaa33105c97d4f5cd314cad95cce3bb6a.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/libs/cling-core-2.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="765f74340467f6a4cd3ee68310a6adfe6ebe7471">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/cling-core-2.0-SNAPSHOT-a24e2d8c3658c4e7426cb89a94b3294911722f31.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-79a155709db6bf1170c96ce628cba397058a3623.jar" />
+    </item>
+    <item
+        jar="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/worawit/AndroidstudioProjects/MediaRenderer/app/build/intermediates/pre-dexed/debug/classes-49322322db17eb6777655efe714a16137b39218a.jar" />
+    </item>
+
+</items>
